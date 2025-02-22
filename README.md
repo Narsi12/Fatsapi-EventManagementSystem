@@ -24,7 +24,7 @@ Ensure you have the following installed:
 ### Setup Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/event-management.git
+   git clone https://github.com/Narsi12/Fatsapi-EventManagementSystem.git
    cd event-management
    ```
 2. Create and activate a virtual environment:
